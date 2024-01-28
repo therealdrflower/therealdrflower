@@ -8,7 +8,7 @@ I like C++ (Chart below is lying!)<br><br>
         <tr valign="top">
             <td width="80px" align="center">
             <span><strong>Python</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>Java</strong></span><br>
