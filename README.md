@@ -1,7 +1,7 @@
 ### Hello 
 I like to program in C++. I also like making video games, yet I stil have to make one :).
 
-I tried making a programming language like 50 times.
-Me and ChatGPT made a license based on FreeBSD, I think it's cool.
+What I know:
+https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg
 
 Check out my pinned repositories:
