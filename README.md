@@ -1,2 +1,2 @@
-Hello, I am drflower and I like C++.<br>
-I am also learning fortran :)
+### Hello 👋
+I know a bit of Fortran (simple printing, variables, loops, arrays)
