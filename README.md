@@ -1,2 +1,2 @@
 ### Hello 👋
-I know a bit of Fortran (simple printing, variables, loops, arrays)
+I know C++ and a bit of Fortran.
